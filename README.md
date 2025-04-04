@@ -15,7 +15,7 @@ Dominar de las bases teóricas ecológicas y genómicas para el estudio integrat
 Desarrollar habilidades prácticas en el manejo de software especializado para el análisis de información ecológica y genómica.
 Propiciar en los estudiantes la integración de diversos métodos para el análisis multifacético de los procesos de interacción ambiente-fenotipo-genotipo.
  
-### Temario  
+### Temas del curso
 **Unidad 1** Introducción – Conceptos básicos  
 **Unidad 2** [Teoría y métodos de estudio de Comunidades](https://github.com/Ornitologia-MZFC/PCB_2025-2/tree/main/Unidad_2)  
 **Unidad 3** [Teoría y métodos de estudio de Reglas de ensamblaje](https://github.com/Ornitologia-MZFC/PCB_2025-2/tree/main/Unidad_3)  
